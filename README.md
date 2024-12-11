@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Guseura
 - 👀 I’m interested in iOS Development
-- 🌱 I’m currently learning Swift
 - 💞️ I’m looking to collaborate on cool projects
 - 📫 How to reach me -> gooseura@gmail.com
